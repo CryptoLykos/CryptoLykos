@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @CryptoLykos
-- 👀 I’m interested in Crypto
-- 🌱 I’m currently learning Crypto
-- 💞️ I’m looking to collaborate on Crypto
-- 📫 How to reach me Crypto
-- 😄 Pronouns: Crypto
-- ⚡ Fun fact: Crypto
+- 👋 Hi, I’m @CrypLykos
+- 👀 I’m interested in crypto, trading & investing
+- 🌱 I’m currently spend most of my time in crypto space
+- 💞️ I’m looking to collaborate on crypto & investment
+- 📫 How to reach me @cryplykos on Twitter
+- 😄 Pronouns: Lykos
